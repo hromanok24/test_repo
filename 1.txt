@@ -3,3 +3,4 @@ tast case title some title
 steps to reproduse: 1,2,3
 
 test case2
+info about test case2
